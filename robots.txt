@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ociyuafe.github.io/BjA/sitemap_index.txt
+Sitemap: https://ociyuafe.github.io/PAl/sitemap_index.txt
+Sitemap: https://ociyuafe.github.io/Tdk/sitemap_index.txt
+Sitemap: https://ociyuafe.github.io/wXj/sitemap_index.txt
